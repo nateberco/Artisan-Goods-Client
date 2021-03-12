@@ -1,0 +1,362 @@
+body {
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.topDiv {
+  background-color: #b0c4b1;
+  color: white;
+  font-size: xx-small;
+  text-align: center;
+  height: 40px;
+}
+
+.topPinkDiv {
+  background-color: #f7e1d7;
+  height: 10px;
+}
+
+.custom-shape-divider-top-1614310303 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 160px;
+  top: 11px;
+}
+
+.custom-shape-divider-top-1614310303 .shape-fill {
+  fill: black;
+}
+
+.navbarCss {
+  background-color: #b0c4b1;
+  height: 200px;
+}
+
+.navbarCss navbar navbar-expand-md navbar-light {
+  height: 200px;
+}
+
+.navbar {
+  height: 40px;
+}
+
+.nav-item {
+  text-align: center;
+}
+
+.NavbarBrand {
+  position: relative;
+  font-family: "Satisfy", cursive;
+}
+
+.logo {
+  position: relative;
+  text-align: center !important;
+  padding-bottom: "50px";
+}
+
+.tabs {
+  color: #ffddd2;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.nav-item {
+  font-size: 20px;
+}
+.Carousel {
+  height: 440px;
+  width: auto;
+
+  bottom: 20px;
+}
+
+.carousel-inner {
+  height: 440px;
+  width: auto;
+}
+
+.carousel-item {
+  height: 440px;
+  width: auto;
+}
+
+.container {
+  justify-content: center;
+}
+
+.auth-container {
+  height: 560px;
+  width: 800px;
+  position: relative;
+  bottom: 150px;
+}
+
+.custom-shape-divider-bottom-1614346458 {
+  position: absolute;
+}
+
+.colorDiv {
+  background-color: #b0c4b1;
+
+  height: 188px;
+
+  width: autopx;
+  position: relative;
+  top: 18px;
+}
+
+.custom-shape-divider-bottom-1613956483 {
+  position: relative;
+  bottom: 100px;
+
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-bottom-1614346458 svg {
+  position: relative;
+  display: block;
+  width: auto;
+
+  height: 153px;
+}
+
+.custom-shape-divider-bottom-1614346458 .shape-fill {
+  fill: #b0c4b1;
+}
+
+.flexbox-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 20px;
+}
+
+.modalCss {
+  width: 700px !important;
+  margin: auto;
+}
+
+.signUp {
+  position: relative;
+  bottom: 40px;
+  height: 310px;
+  width: 320px;
+  background-color: #e1e2e3;
+  opacity: 0.8;
+  color: black;
+  z-index: 220;
+}
+
+.login {
+  position: relative;
+  bottom: 40px;
+  height: 310px;
+  width: 320px;
+  background-color: #e1e2e3;
+  opacity: 0.8;
+  color: black;
+  z-index: 220;
+}
+
+.modal-title {
+  margin-left: auto;
+}
+
+.btn btn-primary {
+  margin-right: auto;
+}
+
+.bottomPinkDiv {
+  background-color: #f7e1d7;
+  height: 50px;
+}
+
+#myShopHeader {
+  font-family: "Satisfy", cursive;
+  font-size: 70px;
+  letter-spacing: 1px;
+  font-style: italic;
+}
+
+#featuredProducts {
+  font-family: "Satisfy", cursive;
+  font-size: 60px;
+  text-align: center;
+  bottom: 60px;
+  font-style: italic;
+  letter-spacing: 2px;
+  margin-bottom: 0;
+  position: relative;
+}
+
+.searchBar {
+  position: relative;
+  bottom: 260px;
+}
+
+.cardDeckCss {
+  position: relative;
+  bottom: 170px;
+}
+
+.submitBtn {
+  margin-top: 10px;
+}
+
+.custom-shape-divider-bottom-1614655104 {
+  position: relative;
+  top: 100px;
+  left: 0;
+  overflow: hidden;
+
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1614655104 svg {
+  position: relative;
+  display: block;
+
+  /* width: calc(100% + 1.3px); */
+  height: 230px;
+  width: auto;
+  transform: rotateY(180deg);
+  z-index: -1;
+}
+
+.custom-shape-divider-bottom-1614655104 .shape-fill {
+  fill: #f7e1d7;
+}
+
+.signupDiv {
+  background-color: #f7e1d7;
+  height: 200px;
+  position: relative;
+  bottom: 30px;
+}
+
+.custom-shape-divider-top-1614696370 .shape-fill {
+  fill: #edafb8 !important;
+}
+
+.socialMediaIcons {
+  margin-left: 0%;
+  margin-right: 0%;
+  position: relative;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.icon {
+  padding: 20px;
+  margin-left: 0%;
+
+  margin-right: 0%;
+  position: relative;
+}
+
+.gradientDiv {
+  position: relative;
+  bottom: 20px;
+  height: 200px;
+  background: rgb(248, 229, 220);
+  background: linear-gradient(
+    180deg,
+    rgba(248, 229, 220, 1) 1%,
+    rgba(255, 255, 255, 1) 48%,
+    rgba(255, 255, 255, 1) 68%,
+    rgba(255, 255, 255, 1) 100%
+  );
+}
+
+.pinkLoginDiv {
+  background-color: #f7e1d7;
+  height: 350px;
+  position: relative;
+  bottom: -80px;
+  width: 2000px;
+  margin-left: -80%;
+}
+
+.justify-content-md-center {
+  position: relative;
+  z-index: 100;
+  bottom: 400px;
+}
+
+#loginFont {
+  font-family: "Bebas Neue", cursive;
+  letter-spacing: 1px;
+}
+
+#signupFont {
+  font-family: "Bebas Neue", cursive;
+  letter-spacing: 1px;
+}
+
+#productCreateFont {
+  font-family: "Bebas Neue", cursive;
+  letter-spacing: 1px;
+}
+
+#socialMediaFooter {
+  font-family: "Bebas Neue", cursive;
+  letter-spacing: 1px;
+  text-align: center;
+  padding: 20px;
+}
+
+a.youtube {
+  color: #eb3223;
+}
+
+a.facebook {
+  color: #4968ad;
+}
+
+a.twitter {
+  color: #49a1eb;
+}
+
+a.instagram {
+  color: black;
+}
+
+.social-container {
+  padding: 25px 50px;
+  text-align: center;
+  letter-spacing: 5px;
+}
+
+a.social {
+  margin: 0 1rem;
+  transition: transform 250ms;
+  display: inline-block;
+}
+
+a.social:hover {
+  transform: translateY(-2px);
+  color: rgb(248, 229, 220);
+}
+
+#container-MyPageCards {
+  display: flex;
+}
+
+.description {
+  text-align: left;
+}
+
+.card-body {
+  padding: 0 !important;
+}
+
+.w-100 {
+  width: 50% !important;
+}
